@@ -1,13 +1,10 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm _Mekunint_
 
-Welcome to my GitHub profile!  
-I’m a passionate **developer** who loves building projects that simplify human life 🌍.  
-
----
+ passionate **developer** who loves building projects that simplify human life 🌍.  
 
 ## 🚀 About Me
 - 🌱 Currently learning **[Your Current Tech/Framework, e.g., Next.js, NestJS]**  
-- 💡 Interested in **IoT, AI, and smart cities**  
+- 💡 Interested in bulding projects,web dev,cyber
 - 🎯 Goal: Become a skilled full-stack developer & contribute to impactful projects  
 - ⚡ Fun fact: I believe technology + creativity = better future  
 
