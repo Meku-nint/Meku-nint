@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 A passionate [Your Role: e.g. Full-Stack Developer | Student | Builder] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm mekunint</h1>
+<h3 align="center">🚀 A passionate [Your Role: e.g. Full-Stack Developer | Student</h3>
 
 ---
 
