@@ -28,7 +28,7 @@ I’m a passionate **developer** who loves building projects that simplify human
 ---
 
 ## 📊 GitHub Stats
-![Mekunint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mekunint&show_icons=true&theme=radical)
+![Mekunint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meku-nint&show_icons=true&theme=radical)
 
 ---
 
