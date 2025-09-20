@@ -33,7 +33,7 @@ I’m a passionate **developer** who loves building projects that simplify human
 ---
 
 ## 🌐 Connect with Me
-- 📧 Email: **mekunint@example.com**  
+- 📧 Email: **mw908334"gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/mekunint](https://linkedin.com/in/mekunint)  
 - 🐦 Twitter: [twitter.com/mekunint](https://twitter.com/mekunint)  
 
