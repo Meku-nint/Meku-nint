@@ -10,7 +10,7 @@
 
 <!-- GREETING  -->
 <h3 align="center">
-Hi there! I'm Mekunint As. <br> 
+Hi there! I'm Mekunint We. <br> 
 </h3>
 
 <p align="center">
