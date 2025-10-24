@@ -38,9 +38,7 @@ Hi there! I'm Mekunint We. <br>
   </a>&nbsp;
 
   <!-- X (Twitter) -->
-  <a href="https://x.Mek21157">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
+
 
   <!-- Resume -->
   <a href="https://drive.gooe.com/file/d/1_-GqW0VcOPE0TtmSHXD2lvdKr7iQ51YW/view?usp=sharing">
