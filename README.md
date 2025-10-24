@@ -28,17 +28,17 @@ Hi there! I'm Mekunint We. <br>
   </a>&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/salhefa/">
+  <a href="[https://www.linkedin.com/in/salhefa/](https://www.linkedin.com/in/mekunint-stotaw-973770394/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
 
   <!-- Gmail -->
-  <a href="mailto:salasfa@gmail.com">
+  <a href="mailto:mw908334@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
 
   <!-- X (Twitter) -->
-  <a href="https://x.cosalassefa">
+  <a href="https://x.Mek21157">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>&nbsp;
 
