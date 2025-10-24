@@ -23,7 +23,7 @@ Hi there! I'm Mekunint We. <br>
 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https:.codes">
+  <a href="https://mypof.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
 
