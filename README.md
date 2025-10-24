@@ -36,10 +36,6 @@ Hi there! I'm Mekunint We. <br>
   <a href="mailto:mw908334@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-
-  <!-- X (Twitter) -->
-
-
   <!-- Resume -->
   <a href="https://drive.gooe.com/file/d/1_-GqW0VcOPE0TtmSHXD2lvdKr7iQ51YW/view?usp=sharing">
     <img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" />
