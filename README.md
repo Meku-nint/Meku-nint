@@ -1,5 +1,5 @@
 <h2 align="center">
- Welcome to my world of code and creativity! </br>
+ Welcome to my world of code </br>
 </h2>
 <h3 align="center">
    Passionate | Creative | Eager-to-Learn Developer💻 
