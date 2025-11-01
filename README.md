@@ -1,8 +1,9 @@
 <h2 align="center">
- Welcome to my coding verse <br> 
+ Welcome to my world of code and creativity! </br>
 </h2>
 <h3 align="center">
-   Creative Developer | Quick Learner 🧑‍💻 <br> 
+   Passionate | Creative | Eager-to-Learn Developer💻 
+ <br> 
 </h3>
 
 
